@@ -21,4 +21,14 @@ The paper has been accepted in the proceedings of IEEE ICMLA 2023. A copy of pre
 
 ## Citation
 If you use this code for your research, please cite our paper:
-`Pending update`
+```
+@inproceedings{lapp2023integrating,
+  title={Integrating Fourier Transform and Residual Learning for Arctic Sea Ice Forecasting},
+  author={Lapp, Louis and Ali, Sahara and Wang, Jianwu},
+  booktitle={2023 International Conference on Machine Learning and Applications (ICMLA)},
+  pages={1753--1758},
+  year={2023},
+  organization={IEEE}
+}
+```
+
