@@ -12,12 +12,12 @@ The tutorial will walk you through following previous and newly developed data-d
 If you use this code for your research, please cite our work:
 
 ```
-@inproceedings{ali2023quantifying,
-  title={Quantifying causes of arctic amplification via deep learning based time-series causal inference},
-  author={Ali, Sahara and Faruque, Omar and Huang, Yiyi and Gani, Md Osman and Subramanian, Aneesh and Schlegel, Nicole-Jeanne and Wang, Jianwu},
-  booktitle={2023 International Conference on Machine Learning and Applications (ICMLA)},
-  pages={689--696},
+@incollection{ali2023ai,
+  title={AI for sea ice forecasting},
+  author={Ali, Sahara and Huang, Yiyi and Wang, Jianwu},
+  booktitle={Artificial intelligence in earth science},
+  pages={41--58},
   year={2023},
-  organization={IEEE}
+  publisher={Elsevier}
 }
 ```
