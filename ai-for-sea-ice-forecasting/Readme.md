@@ -7,3 +7,17 @@ The tutorial will walk you through following previous and newly developed data-d
 1. [Multiple Linear Regression](https://github.com/big-data-lab-umbc/sea-ice-prediction/blob/main/probabilistic-modeling/models/MLR.ipynb) (details available in our [github project](https://github.com/big-data-lab-umbc/sea-ice-prediction/blob/main/probabilistic-modeling/))
 2. Long Short Term Memory Model (details available in our [github project](https://github.com/big-data-lab-umbc/sea-ice-prediction/blob/main/climate-change-ai-workshop/models/Polar_Sea_Ice_Prediction_mLSTM.ipynb))
 3. Deep Learning Ensemble (Monthly_Polar_Sea_Ice_Prediction_Attention_MLR+LSTM.ipynb)
+
+## Citation
+If you use this code for your research, please cite our work:
+
+```
+@incollection{ali2023ai,
+  title={AI for sea ice forecasting},
+  author={Ali, Sahara and Huang, Yiyi and Wang, Jianwu},
+  booktitle={Artificial intelligence in earth science},
+  pages={41--58},
+  year={2023},
+  publisher={Elsevier}
+}
+```
